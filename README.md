@@ -58,9 +58,7 @@ Contributions are welcome! If you find any issues or have suggestions, please op
 ## License
 
 This project is licensed under the [GNU Public License](LICENSE). You are free to modify and distribute the code under the terms of this license. 
-```bash
-pip install -r requirements.txt
-```
+
 
 
 

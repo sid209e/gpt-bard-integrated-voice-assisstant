@@ -17,7 +17,7 @@ recognizer.energy_threshold = 300
 polly_client = boto3.Session(
     aws_access_key_id="YOUR_ACCESS_KEY_ID",
     aws_secret_access_key="YOUR_SECRET_ACCESS_KEY",
-    region_name="ap-south-1"
+    region_name="YOUR_REGION"
 ).client('polly')
 
 voices = polly_client.describe_voices(LanguageCode='en-US')['Voices']

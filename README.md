@@ -13,7 +13,7 @@ This project implements a voice assistant powered by GPT-3 and Bard. The voice a
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/gpt-bard-voice-assistant.git
+git clone https://github.com/sid209e/gpt-bard-voice-assistant.git
 ```
 
 2. Install the required Python packages:

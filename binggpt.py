@@ -1,4 +1,3 @@
-#gpt bard stop final code...need to be cleaned and add features from gpt_bard_voice_assisstant.py
 import speech_recognition as sr
 import boto3
 import os
